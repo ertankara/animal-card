@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Inconsolata;
+}
+
+body {
+  background-image: url(http://files.all-free-download.com//downloadfiles/wallpapers/1920_1200/la_push_forest_wallpaper_landscape_nature_1004.jpg);
+  background-repeat: no-repeat;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+  border: 2px dashed green;
+  border-radius: 60%;
+  opacity: 0.8;
+}
+
+h2 {
+  text-align: center;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.container {
+  border: 2px solid black;
+  width: 310px;
+  margin: 0 auto;
+  background-color: rgba(144, 240, 0, 0.8);
+  border-radius: 5%;
+  margin-top: 7%;
+}
+
+.about-animal {
+  font-size: 16px;
+  line-height: 1.3em;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid green;
+  border-radius: 5%;
+}
+
+.fact-prop {
+  font-weight: bold;
+  margin-left: 6px;
+}
+
+.interesting-fact {
+  margin: 6px;
+  font-style: italic;
+}
+
+.general-info {
+  margin-top: 5px;
+}
